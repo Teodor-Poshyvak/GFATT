@@ -1,0 +1,17 @@
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\bin\Release\net6.0\GFAT.Service.deps.json
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\bin\Release\net6.0\GFAT.Service.dll
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\bin\Release\net6.0\GFAT.Service.pdb
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\bin\Release\net6.0\GFAT.DALL.dll
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\bin\Release\net6.0\GFAT.Domain.dll
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\bin\Release\net6.0\GFAT.DALL.pdb
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\bin\Release\net6.0\GFAT.Domain.pdb
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.AssemblyInfo.cs
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.csproj.CopyComplete
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.dll
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\refint\GFAT.Service.dll
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\GFAT.Service.pdb
+C:\Users\User\RiderProjects\GFAT\GFAT.Service\obj\Release\net6.0\ref\GFAT.Service.dll

@@ -1,0 +1,16 @@
+﻿@model GFAT.Domain.ViewModels.Order.OrderViewModel
+
+<div class="row">
+    <div class="col-md-6">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Авто: @Model.FoodName</li>
+            <li class="list-group-item">Тип: @Model.CataforyFood</li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">ФИО: @Model.FirstName @Model.LastName.Substring(0, 1) @Model.MiddleName.Substring(0, 1)</li>
+            <li class="list-group-item">Адрес: @Model.Address</li>
+        </ul> 
+    </div>
+</div>

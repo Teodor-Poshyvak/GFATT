@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="bootstrap" Version="5.2.3" />
+      <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Hosting.Server.Abstractions" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.Extensions" Version="6.0.12" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.12" />
+      <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Razor.Language" Version="6.0.12" />
+      <PackageReference Include="Microsoft.AspNetCore.Razor.Runtime" Version="2.2.0" />
+      <PackageReference Include="Microsoft.CodeAnalysis.Razor" Version="6.0.12" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.12" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.12">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.12" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.12">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.2-mauipre.1.22102.15" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.2-mauipre.1.22102.15" />
+      <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.2-mauipre.1.22102.15" />
+      <PackageReference Include="NLog" Version="5.1.1" />
+      <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.1" />
+      <PackageReference Include="Remotion.Linq" Version="2.2.0" />
+      <PackageReference Include="System.Linq.Async" Version="6.0.1" />
+      <PackageReference Include="System.Linq.Expressions" Version="4.3.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\GFAT.Domain\GFAT.Domain.csproj" />
+    </ItemGroup>
+
+</Project>
